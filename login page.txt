@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Listings</title>
+    <link rel="stylesheet" href="login_css.css">
+</head>
+<body>
+    <header>
+        <h1>GreenBin Innovations</h1>
+    </header>
+    <div class="bg">
+        <div class="gg">
+            <h1 class="wh">Welcome to GreenBin Innovations!</h1>
+            <h3 class="wh">At GreenBin Innovations,We're on a mission to revolutionize domestic waste management.Some of our services are like waste collection in time and recycling with less pollution and many more.And also you can share your ideas on which we can save our earth through our contact page.</h3>
+          </div>
+          <nav class="navi">
+            <a href="file:///C:/Users/Dhanu/AppData/Local/Programs/Microsoft%20VS%20Code/MAIN.html"><h1>Home</h1></a>
+            <a ><h1>About us</h1></a>
+            <a><h1>Services</h1></a>
+            <a><h1>products</h1></a>
+            <a href="file:///C:/Users/Dhanu/AppData/Local/Programs/Microsoft%20VS%20Code/contact%20page.html"><h1>Contact</h1></a>
+    </nav>
+
+
+    <section id="property-listings">
+        <!-- Property listings will go here -->
+        <div class="property">
+            <label class="wh" for="name">Name:</label> <INPUT type="text" id="name" required></INPUT><br>
+            <label class="wh" for="emaiL">E-mail:</label> <input type="email" id="emaiL" required="@"></input><br>
+            <div class="kk"><a href="file:///C:/Users/Dhanu/realestatewithcss.html"><button type="submit">Sign in</button></a></div>
+        </div>
+    </section>
+  <div class="gg">
+
+  </div>
+
+    </div>
+
+<footer class="hi">
+      <p>Copyright © 2024. All Rights GreenBin Innovations.pvt ltd</p>
+</footer>
+
+
+
+
+    <script src="script.js"></script>
+    </div>
+</body>
+</html>
